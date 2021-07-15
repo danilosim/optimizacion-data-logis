@@ -10,7 +10,7 @@ DISTANCE_URL = 'http://router.project-osrm.org/table/v1/driving/{locations}?anno
 
 print('Connecting to database...')
 
-conn = psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
+conn = psycopg2.connect(database='_', user='_', password='_', host='_')
 
 cur = conn.cursor()
 
