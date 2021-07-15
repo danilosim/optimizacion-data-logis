@@ -14,7 +14,7 @@ def build_locations_set(trips):
     locations = set([trip['origen'] for trip in trips.values()]) | set([trip['destino'] for trip in trips.values()])
     ubicaciones = []
     try:
-        conn = psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
+        conn = psycopg2.connect(database='_', user='_', password='_', host='_')
         cur = conn.cursor()
 
         cur.execute(
@@ -173,7 +173,7 @@ def get_location_distances(locations_set):
     distancias = None
 
     try:
-        conn = psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
+        conn = psycopg2.connect(database='_', user='_', password='_', host='_')
         cur = conn.cursor()
 
         cur.execute(
