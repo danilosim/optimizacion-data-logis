@@ -5,7 +5,7 @@ import traceback
 def get_location_distances():
     distancias = None
     try:
-        conn = psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
+        conn = psycopg2.connect(database='_', user='_', password='_', host='_')
         cur = conn.cursor()
 
         cur.execute("SELECT ubicacion_id_origen, ubicacion_id_destino, tiempo FROM distancias;")
