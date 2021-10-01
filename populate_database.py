@@ -4,13 +4,13 @@ import requests
 import sys
 import traceback
 
-API_KEY = 'AIzaSyDZe6aGOFQI_5yzd-hasPikD26jdEAPx9k'
+API_KEY = '*'
 GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?address={address}&region=ar&key={key}'
 DISTANCE_URL = 'http://router.project-osrm.org/table/v1/driving/{locations}?annotations=distance,duration&sources=0'
 
 print('Connecting to database...')
 
-conn = psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
+conn = psycopg2.connect(database='assistcargo', user='*', password='*', host='localhost')
 
 cur = conn.cursor()
 
