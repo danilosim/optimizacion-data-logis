@@ -1,0 +1,29 @@
+
+✅ Distance dictionary should add a 60% on top of the database value
+✅ Trucks should end day in arbitrary locations
+✅ Helpers should calculate the duration of the trip using the distances dictionary
+  ✅ Using that duration in days determine which day in the future it should arrive
+  ✅ Set the range for pickup locations to the working hours range of the starting date
+  ✅ Set the range for delivery locations to the working hours range of the delivery date
+  ✅ Set the range for starting locations to the availability of the truck and infinite to the future
+  ✅ Don't set a range for the ending locations
+  ✅ Optimizer should save minutes where every truck will be free
+✅ Helpers should read previous runs to check for free vehicles
+✅ One run per truck type
+  ✅ Determine the amount of runs needed from helpers.py (one for every type of truck)
+  ✅ Helpers should return a locations dictionary for every run (one for every type of truck)
+  ✅ Optimizer should run one instance for every truck type
+✅ Trucks should remain in their ending unless a new position is indicated
+- Check if all distances are calculated
+  - Check for bugs in distances
+- Driver restrictions and rules
+  - Read restrictions
+  - Read OR Tools driver restriction implementations
+  - Implement driver restrictions
+
+
+
+- Read both csvs
+- Dictionary by dates and truck types (dict[date][trucktype]) and only by date (dict[date])
+- Count trucks by unique unit_ids
+- Graph the results
