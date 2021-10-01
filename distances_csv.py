@@ -5,7 +5,7 @@ import traceback
 def get_location_distances():
     distancias = None
     try:
-        conn = psycopg2.connect(database='_', user='_', password='_', host='_')
+        conn = psycopg2.connect(database='assistcargo', user='*', password='*', host='localhost')
         cur = conn.cursor()
 
         cur.execute("SELECT ubicacion_id_origen, ubicacion_id_destino, tiempo FROM distancias;")
@@ -35,7 +35,7 @@ if __name__ == '__main__':
     distances = get_location_distances()
 
     keys = distances[0].keys()
-    with open('distances.csv', 'w', newline='')  as output_file:
+    with open('./csvs/distances.csv', 'w', newline='')  as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(distances)
