@@ -12,7 +12,7 @@ import sys
 from time import time
 import traceback
 
-API_KEY = 'AIzaSyDZe6aGOFQI_5yzd-hasPikD26jdEAPx9k'
+API_KEY = '*'
 # DISTANCE_URL_0 = 'http://router.project-osrm.org/table/v1/driving/{locations}?annotations=distance,duration&sources=0'
 DISTANCE_URL_1 = 'https://odd-baboon-63.loca.lt/table/v1/driving/{locations}?annotations=distance,duration&sources=0'
 DATE_RANGE_START = datetime(2021, 2, 1, 0)
@@ -77,7 +77,7 @@ def query_distances(origin, destinations, info_dict, queue):
 def calculate_remaining_distances(location_set=None):
     print('Querying locations...\n')
 
-    with psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost') as connection:
+    with psycopg2.connect(database='assistcargo', user='*', password='*', host='localhost') as connection:
         connection.autocommit = True
         with connection.cursor() as cursor:
             if location_set:
@@ -99,7 +99,7 @@ def calculate_remaining_distances(location_set=None):
 
     possible_comb = set(combinations(location_ids, 2))
 
-    with psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost') as connection:
+    with psycopg2.connect(database='assistcargo', user='*', password='*', host='localhost') as connection:
         connection.autocommit = True
         with connection.cursor() as cursor:
             cursor.execute("SELECT ubicacion_id_origen, ubicacion_id_destino FROM distancias_mexico")
@@ -141,7 +141,7 @@ def read_and_store_locations():
     print('Storing locations')
 
     try:
-        with psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost') as connection:
+        with psycopg2.connect(database='assistcargo', user='*', password='*', host='localhost') as connection:
             connection.autocommit = True
             with connection.cursor() as cursor:
                 for location_id, data in locations.items():
@@ -197,7 +197,7 @@ async def database_store(remaining_counter, queue):
     start_time = time()
 
     while True:
-        with psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost') as connection:
+        with psycopg2.connect(database='assistcargo', user='*', password='*', host='localhost') as connection:
             connection.autocommit = True
             with connection.cursor() as cursor:
                 try:
