@@ -1,7 +1,7 @@
 import csv
 import requests
 
-API_KEY = 'AIzaSyDZe6aGOFQI_5yzd-hasPikD26jdEAPx9k'
+API_KEY = '*'
 GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?address={address}&region=ar&key={key}'
 DISTANCE_URL = 'http://router.project-osrm.org/table/v1/driving/{locations}?annotations=duration'
 
