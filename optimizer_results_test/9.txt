@@ -1,0 +1,1070 @@
+Amount of Thorton trucks originally used: 108
+
+Amount of trips to optimize: 113
+
+ROUTING_SUCCESS: Problem solved successfully.
+
+
+Route for vehicle 4 - 20243:
+
+Location 35599 Time(189,189) -> Location 36889 Time(1433,1433)
+Time of the route: 1433 minutes
+
+Route for vehicle 13 - 21872:
+
+Location 35752 Time(703,703) -> Location 35753 Time(789,789)
+Time of the route: 789 minutes
+
+Route for vehicle 24 - 20150:
+
+Location 35596 Time(968,968) -> Location 35602 Time(1416,1416) -> Location 35602 Time(1416,1416) -> Location 35597 Time(1880,1880)
+Time of the route: 1880 minutes
+
+Route for vehicle 32 - 21914:
+
+Location 35752 Time(457,457) -> Location 35753 Time(543,543)
+Time of the route: 543 minutes
+
+Route for vehicle 37 - 29396:
+
+Location 35601 Time(608,608) -> Location 35596 Time(1641,1641)
+Time of the route: 1641 minutes
+
+Route for vehicle 41 - 18317:
+
+Location 34080 Time(527,527) -> Location 34231 Time(671,671)
+Time of the route: 671 minutes
+
+Route for vehicle 42 - 17582:
+
+Location 34080 Time(528,528) -> Location 34231 Time(672,672)
+Time of the route: 672 minutes
+
+Route for vehicle 43 - 17512:
+
+Location 34080 Time(528,528) -> Location 34231 Time(672,672)
+Time of the route: 672 minutes
+
+Route for vehicle 44 - 17585:
+
+Location 34080 Time(528,528) -> Location 34231 Time(672,672)
+Time of the route: 672 minutes
+
+Route for vehicle 46 - 36314:
+
+Location 37955 Time(585,585) -> Location 37953 Time(687,687)
+Time of the route: 687 minutes
+
+Route for vehicle 48 - 16788:
+
+Location 36106 Time(913,913) -> Location 33703 Time(1040,1040)
+Time of the route: 1040 minutes
+
+Route for vehicle 49 - 20605:
+
+Location 35601 Time(666,666) -> Location 38249 Time(1024,1024)
+Time of the route: 1024 minutes
+
+Route for vehicle 57 - 27681:
+
+Location 35599 Time(439,439) -> Location 35596 Time(721,721)
+Time of the route: 721 minutes
+
+Route for vehicle 58 - 20583:
+
+Location 35601 Time(229,229) -> Location 36889 Time(580,580)
+Time of the route: 580 minutes
+
+Route for vehicle 61 - 21160:
+
+Location 35601 Time(643,643) -> Location 35596 Time(1676,1676)
+Time of the route: 1676 minutes
+
+Route for vehicle 62 - 25917:
+
+Location 35602 Time(804,804) -> Location 35596 Time(1252,1252)
+Time of the route: 1252 minutes
+
+Route for vehicle 67 - 30058:
+
+Location 35599 Time(560,560) -> Location 35565 Time(1568,1568)
+Time of the route: 1568 minutes
+
+Route for vehicle 78 - 28313:
+
+Location 35599 Time(581,581) -> Location 35565 Time(1589,1589)
+Time of the route: 1589 minutes
+
+Route for vehicle 97 - 21168:
+
+Location 35612 Time(987,987) -> Location 35596 Time(1134,1134)
+Time of the route: 1134 minutes
+
+Route for vehicle 101 - 21522:
+
+Location 35248 Time(323,323) -> Location 35452 Time(2794,2794)
+Time of the route: 2794 minutes
+
+Route for vehicle 107 - 19056:
+
+Location 33704 Time(315,315) -> Location 33703 Time(957,957)
+Time of the route: 957 minutes
+
+Route for vehicle 109 - 21175:
+
+Location 35599 Time(858,858) -> Location 35598 Time(1878,1878)
+Time of the route: 1878 minutes
+
+Route for vehicle 117 - 21869:
+
+Location 35752 Time(452,452) -> Location 35753 Time(538,538)
+Time of the route: 538 minutes
+
+Route for vehicle 126 - 37885:
+
+Location 35602 Time(1112,1112) -> Location 35130 Time(1443,1443)
+Time of the route: 1443 minutes
+
+Route for vehicle 127 - 26411:
+
+Location 35599 Time(1070,1070) -> Location 35598 Time(2090,2090)
+Time of the route: 2090 minutes
+
+Route for vehicle 128 - 23271:
+
+Location 35601 Time(611,611) -> Location 35597 Time(1603,1603)
+Time of the route: 1603 minutes
+
+Route for vehicle 136 - 20652:
+
+Location 35598 Time(267,267) -> Location 35596 Time(1387,1387)
+Time of the route: 1387 minutes
+
+Route for vehicle 147 - 29397:
+
+Location 35602 Time(865,865) -> Location 36889 Time(1800,1800)
+Time of the route: 1800 minutes
+
+Route for vehicle 152 - 21037:
+
+Location 35602 Time(993,993) -> Location 36889 Time(1928,1928)
+Time of the route: 1928 minutes
+
+Route for vehicle 177 - 20634:
+
+Location 35601 Time(582,582) -> Location 37773 Time(925,925) -> Location 35601 Time(1268,1268) -> Location 35596 Time(2301,2301)
+Time of the route: 2301 minutes
+
+Route for vehicle 211 - 20219:
+
+Location 35599 Time(968,968) -> Location 35130 Time(1144,1144) -> Location 33815 Time(1300,1300) -> Location 34780 Time(1572,1572)
+Time of the route: 1572 minutes
+
+Route for vehicle 222 - 44432:
+
+Location 35601 Time(790,790) -> Location 38249 Time(1148,1148)
+Time of the route: 1148 minutes
+
+Route for vehicle 231 - 19825:
+
+Location 35248 Time(1209,1209) -> Location 35399 Time(2342,2342)
+Time of the route: 2342 minutes
+
+Route for vehicle 256 - 21231:
+
+Location 35599 Time(190,622) -> Location 35597 Time(649,1081) -> Location 35597 Time(1081,1081) -> Location 35130 Time(1645,1645)
+Time of the route: 1645 minutes
+
+Route for vehicle 266 - 23125:
+
+Location 36166 Time(1063,1063) -> Location 35596 Time(1765,1765)
+Time of the route: 1765 minutes
+
+Route for vehicle 277 - 20266:
+
+Location 35599 Time(560,560) -> Location 35565 Time(1568,1568)
+Time of the route: 1568 minutes
+
+Route for vehicle 278 - 20232:
+
+Location 35602 Time(1158,1158) -> Location 35581 Time(1664,1664)
+Time of the route: 1664 minutes
+
+Route for vehicle 296 - 18925:
+
+Location 34803 Time(994,994) -> Location 36063 Time(1327,1327)
+Time of the route: 1327 minutes
+
+Route for vehicle 336 - 29915:
+
+Location 35601 Time(968,968) -> Location 38072 Time(2440,2440)
+Time of the route: 2440 minutes
+
+Route for vehicle 343 - 20717:
+
+Location 35907 Time(687,687) -> Location 35598 Time(1827,1827)
+Time of the route: 1827 minutes
+
+Route for vehicle 344 - 24850:
+
+Location 34674 Time(840,840) -> Location 33703 Time(911,911) -> Location 35741 Time(1065,1065) -> Location 36025 Time(1212,1212)
+Time of the route: 1212 minutes
+
+Route for vehicle 357 - 24997:
+
+Location 38082 Time(78,78) -> Location 33963 Time(1388,1388)
+Time of the route: 1388 minutes
+
+Route for vehicle 359 - 32068:
+
+Location 35601 Time(970,970) -> Location 38072 Time(2442,2442)
+Time of the route: 2442 minutes
+
+Route for vehicle 361 - 21174:
+
+Location 35599 Time(865,865) -> Location 35567 Time(1871,1871)
+Time of the route: 1871 minutes
+
+Route for vehicle 369 - 24519:
+
+Location 35752 Time(448,448) -> Location 35753 Time(534,534)
+Time of the route: 534 minutes
+
+Route for vehicle 385 - 29589:
+
+Location 35599 Time(968,968) -> Location 37838 Time(3045,3045)
+Time of the route: 3045 minutes
+
+Route for vehicle 390 - 33252:
+
+Location 35599 Time(976,976) -> Location 35597 Time(1435,1435)
+Time of the route: 1435 minutes
+
+Route for vehicle 405 - 18027:
+
+Location 34619 Time(92,92) -> Location 35011 Time(501,501)
+Time of the route: 501 minutes
+
+Route for vehicle 406 - 45116:
+
+Location 35599 Time(1073,1073) -> Location 35596 Time(1355,1355)
+Time of the route: 1355 minutes
+
+Route for vehicle 407 - 19510:
+
+Location 35599 Time(1077,1077) -> Location 35596 Time(1359,1359)
+Time of the route: 1359 minutes
+
+Route for vehicle 408 - 17890:
+
+Location 35068 Time(216,216) -> Location 35092 Time(651,651)
+Time of the route: 651 minutes
+
+Route for vehicle 409 - 23700:
+
+Location 34150 Time(300,300) -> Location 34386 Time(577,577)
+Time of the route: 577 minutes
+
+Route for vehicle 410 - 45100:
+
+Location 33704 Time(315,315) -> Location 33703 Time(957,957)
+Time of the route: 957 minutes
+
+Route for vehicle 411 - 19880:
+
+Location 35248 Time(1209,1209) -> Location 35377 Time(2251,2251)
+Time of the route: 2251 minutes
+
+Route for vehicle 412 - 34100:
+
+Location 34657 Time(360,360) -> Location 36595 Time(621,621)
+Time of the route: 621 minutes
+
+Route for vehicle 413 - 33198:
+
+Location 34553 Time(360,360) -> Location 34657 Time(1675,1675)
+Time of the route: 1675 minutes
+
+Route for vehicle 414 - 28148:
+
+Location 34137 Time(360,360) -> Location 34390 Time(1036,1036)
+Time of the route: 1036 minutes
+
+Route for vehicle 415 - 20336:
+
+Location 38078 Time(420,420) -> Location 34313 Time(1868,1868)
+Time of the route: 1868 minutes
+
+Route for vehicle 416 - 45002:
+
+Location 35752 Time(452,452) -> Location 35753 Time(538,538)
+Time of the route: 538 minutes
+
+Route for vehicle 417 - 20385:
+
+Location 35488 Time(538,538) -> Location 35489 Time(563,563)
+Time of the route: 563 minutes
+
+Route for vehicle 418 - 45147:
+
+Location 35599 Time(1078,1078) -> Location 35596 Time(1360,1360)
+Time of the route: 1360 minutes
+
+Route for vehicle 419 - 40896:
+
+Location 35601 Time(1077,1077) -> Location 38249 Time(1435,1435)
+Time of the route: 1435 minutes
+
+Route for vehicle 420 - 20627:
+
+Location 35601 Time(1153,1153) -> Location 35597 Time(2145,2145)
+Time of the route: 2145 minutes
+
+Route for vehicle 421 - 34342:
+
+Location 35601 Time(1155,1155) -> Location 35597 Time(2147,2147)
+Time of the route: 2147 minutes
+
+Route for vehicle 422 - 18856:
+
+Location 33815 Time(749,749) -> Location 34780 Time(1021,1021)
+Time of the route: 1021 minutes
+
+Route for vehicle 423 - 45141:
+
+Location 39041 Time(761,761) -> Location 39053 Time(2104,2104)
+Time of the route: 2104 minutes
+
+Route for vehicle 424 - 45142:
+
+Location 39041 Time(761,761) -> Location 39053 Time(2104,2104)
+Time of the route: 2104 minutes
+
+Route for vehicle 425 - 21662:
+
+Location 35068 Time(847,847) -> Location 35097 Time(2519,2519)
+Time of the route: 2519 minutes
+
+Route for vehicle 426 - 45159:
+
+Location 35599 Time(1078,1078) -> Location 35597 Time(1537,1537)
+Time of the route: 1537 minutes
+
+Route for vehicle 428 - 39818:
+
+Location 35601 Time(1209,1209) -> Location 37773 Time(1552,1552)
+Time of the route: 1552 minutes
+
+Route for vehicle 429 - 39815:
+
+Location 35599 Time(1103,1103) -> Location 35596 Time(1385,1385) -> Location 35596 Time(1385,1385) -> Location 35597 Time(2002,2002)
+Time of the route: 2002 minutes
+
+Route for vehicle 430 - 40159:
+
+Location 35601 Time(1225,1225) -> Location 37773 Time(1568,1568)
+Time of the route: 1568 minutes
+
+Route for vehicle 431 - 42307:
+
+Location 35907 Time(987,987) -> Location 35596 Time(1041,1041)
+Time of the route: 1041 minutes
+
+Route for vehicle 432 - 18159:
+
+Location 34575 Time(1006,1006) -> Location 34592 Time(2167,2167)
+Time of the route: 2167 minutes
+
+Route for vehicle 433 - 34308:
+
+Location 34580 Time(1020,1020) -> Location 34576 Time(1973,1973)
+Time of the route: 1973 minutes
+
+Route for vehicle 434 - 20996:
+
+Location 35596 Time(1073,1073) -> Location 35559 Time(2766,2766)
+Time of the route: 2766 minutes
+
+Route for vehicle 435 - 22615:
+
+Location 35599 Time(1215,1215) -> Location 35596 Time(1497,1497)
+Time of the route: 1497 minutes
+
+Route for vehicle 436 - 28946:
+
+Location 35597 Time(1119,1119) -> Location 35598 Time(2224,2224)
+Time of the route: 2224 minutes
+
+Route for vehicle 437 - 20562:
+
+Location 35599 Time(1224,1224) -> Location 35130 Time(1400,1400) -> Location 35130 Time(1400,1400) -> Location 37785 Time(2474,2474)
+Time of the route: 2474 minutes
+
+Route for vehicle 438 - 41757:
+
+Location 34580 Time(1109,1109) -> Location 34598 Time(2802,2802)
+Time of the route: 2802 minutes
+
+Route for vehicle 439 - 45172:
+
+Location 35597 Time(1119,1119) -> Location 35647 Time(1918,1918)
+Time of the route: 1918 minutes
+
+Route for vehicle 440 - 23824:
+
+Location 35597 Time(1119,1119) -> Location 35650 Time(2754,2754)
+Time of the route: 2754 minutes
+
+Route for vehicle 441 - 21150:
+
+Location 35597 Time(1119,1119) -> Location 36121 Time(1345,1345)
+Time of the route: 1345 minutes
+
+Route for vehicle 442 - 42026:
+
+Location 34580 Time(1153,1153) -> Location 34592 Time(2660,2660)
+Time of the route: 2660 minutes
+
+Route for vehicle 443 - 35326:
+
+Location 35601 Time(1264,1264) -> Location 35596 Time(2297,2297)
+Time of the route: 2297 minutes
+
+Route for vehicle 444 - 20658:
+
+Location 35601 Time(1269,1269) -> Location 35597 Time(2261,2261)
+Time of the route: 2261 minutes
+
+Route for vehicle 445 - 20644:
+
+Location 35602 Time(1264,1264) -> Location 36889 Time(2199,2199)
+Time of the route: 2199 minutes
+
+Route for vehicle 446 - 45178:
+
+Location 35597 Time(1173,1173) -> Location 35650 Time(2808,2808)
+Time of the route: 2808 minutes
+
+Route for vehicle 447 - 32338:
+
+Location 34577 Time(1178,1178) -> Location 34593 Time(2196,2196)
+Time of the route: 2196 minutes
+
+Route for vehicle 448 - 30691:
+
+Location 35601 Time(1291,1291) -> Location 37773 Time(1634,1634)
+Time of the route: 1634 minutes
+
+Route for vehicle 449 - 19943:
+
+Location 35248 Time(1209,1209) -> Location 35375 Time(2155,2155)
+Time of the route: 2155 minutes
+
+Route for vehicle 450 - 19932:
+
+Location 35248 Time(1309,1309) -> Location 35381 Time(1963,1963)
+Time of the route: 1963 minutes
+
+Route for vehicle 451 - 19931:
+
+Location 35248 Time(1310,1310) -> Location 35403 Time(2539,2539)
+Time of the route: 2539 minutes
+
+Route for vehicle 452 - 20638:
+
+Location 35601 Time(1305,1305) -> Location 35596 Time(2338,2338)
+Time of the route: 2338 minutes
+
+Route for vehicle 453 - 27387:
+
+Location 34231 Time(1308,1308) -> Location 34249 Time(2006,2006)
+Time of the route: 2006 minutes
+
+Route for vehicle 454 - 31675:
+
+Location 34231 Time(1308,1308) -> Location 38045 Time(2737,2737)
+Time of the route: 2737 minutes
+
+Route for vehicle 455 - 19890:
+
+Location 35248 Time(1310,1310) -> Location 35328 Time(1939,1939)
+Time of the route: 1939 minutes
+
+Route for vehicle 456 - 19889:
+
+Location 35248 Time(1310,1310) -> Location 35823 Time(1928,1928)
+Time of the route: 1928 minutes
+
+Route for vehicle 457 - 19876:
+
+Location 35248 Time(1310,1310) -> Location 35364 Time(2042,2042)
+Time of the route: 2042 minutes
+
+Route for vehicle 458 - 19712:
+
+Location 38063 Time(1313,1313) -> Location 34619 Time(2894,2894)
+Time of the route: 2894 minutes
+
+Route for vehicle 459 - 41986:
+
+Location 34580 Time(1342,1342) -> Location 34592 Time(2849,2849)
+Time of the route: 2849 minutes
+
+Route for vehicle 460 - 17699:
+
+Location 34466 Time(1351,1351) -> Location 34462 Time(1711,1711)
+Time of the route: 1711 minutes
+
+Route for vehicle 461 - 29047:
+
+Location 35599 Time(1361,1361) -> Location 35130 Time(1537,1537)
+Time of the route: 1537 minutes
+
+Route for vehicle 462 - 41725:
+
+Location 35248 Time(1372,1372) -> Location 35446 Time(3633,3633)
+Time of the route: 3633 minutes
+
+Route for vehicle 463 - 25425:
+
+Location 35248 Time(1372,1372) -> Location 35823 Time(1990,1990)
+Time of the route: 1990 minutes
+
+Route for vehicle 464 - 20054:
+
+Location 35248 Time(1377,1377) -> Location 35404 Time(2684,2684)
+Time of the route: 2684 minutes
+
+Total time of all routes: 210762 minutes
+Amount of trucks used by optimizer: 106
+
+Amount of Trailer trucks originally used: 82
+
+Amount of trips to optimize: 90
+
+ROUTING_SUCCESS: Problem solved successfully.
+
+
+Route for vehicle 10 - 17008:
+
+Location 33925 Time(406,406) -> Location 34123 Time(1760,1760)
+Time of the route: 1760 minutes
+
+Route for vehicle 31 - 41269:
+
+Location 38829 Time(945,945) -> Location 38648 Time(1002,1002) -> Location 38648 Time(1002,1002) -> Location 34407 Time(1136,1136) -> Location 34407 Time(1136,1136) -> Location 38648 Time(1270,1270)
+Time of the route: 1270 minutes
+
+Route for vehicle 32 - 35434:
+
+Location 33815 Time(36,36) -> Location 34799 Time(501,501)
+Time of the route: 501 minutes
+
+Route for vehicle 33 - 18807:
+
+Location 33815 Time(83,83) -> Location 38315 Time(428,428)
+Time of the route: 428 minutes
+
+Route for vehicle 40 - 28098:
+
+Location 34231 Time(684,684) -> Location 34235 Time(918,918)
+Time of the route: 918 minutes
+
+Route for vehicle 42 - 20228:
+
+Location 35602 Time(684,684) -> Location 35596 Time(1132,1132)
+Time of the route: 1132 minutes
+
+Route for vehicle 53 - 20212:
+
+Location 35602 Time(800,800) -> Location 35563 Time(1519,1519)
+Time of the route: 1519 minutes
+
+Route for vehicle 68 - 34882:
+
+Location 35601 Time(595,595) -> Location 37773 Time(938,938) -> Location 35601 Time(1281,1281) -> Location 35596 Time(2314,2314)
+Time of the route: 2314 minutes
+
+Route for vehicle 69 - 20692:
+
+Location 35601 Time(328,328) -> Location 35596 Time(1361,1361)
+Time of the route: 1361 minutes
+
+Route for vehicle 79 - 33379:
+
+Location 35601 Time(303,303) -> Location 36889 Time(654,654)
+Time of the route: 654 minutes
+
+Route for vehicle 96 - 16524:
+
+Location 33704 Time(310,310) -> Location 33703 Time(952,952)
+Time of the route: 952 minutes
+
+Route for vehicle 100 - 40741:
+
+Location 33925 Time(410,410) -> Location 34110 Time(1622,1622)
+Time of the route: 1622 minutes
+
+Route for vehicle 109 - 17036:
+
+Location 33925 Time(360,360) -> Location 34110 Time(1572,1572)
+Time of the route: 1572 minutes
+
+Route for vehicle 113 - 41271:
+
+Location 34053 Time(1050,1050) -> Location 38648 Time(1087,1087) -> Location 34404 Time(1127,1127) -> Location 38648 Time(1167,1167) -> Location 38648 Time(1167,1167) -> Location 34409 Time(1260,1260)
+Time of the route: 1260 minutes
+
+Route for vehicle 114 - 21159:
+
+Location 35599 Time(190,190) -> Location 35597 Time(649,649)
+Time of the route: 649 minutes
+
+Route for vehicle 115 - 22457:
+
+Location 35599 Time(439,439) -> Location 35596 Time(721,721)
+Time of the route: 721 minutes
+
+Route for vehicle 117 - 41270:
+
+Location 34611 Time(737,795) -> Location 38648 Time(772,830) -> Location 38648 Time(772,830) -> Location 34404 Time(812,870) -> Location 34404 Time(870,870) -> Location 38648 Time(910,910) -> Location 34404 Time(950,950) -> Location 38648 Time(990,990) -> Location 38648 Time(990,990) -> Location 34482 Time(1103,1103)
+Time of the route: 1103 minutes
+
+Route for vehicle 119 - 36481:
+
+Location 33815 Time(75,75) -> Location 37947 Time(540,540)
+Time of the route: 540 minutes
+
+Route for vehicle 138 - 18778:
+
+Location 33815 Time(285,285) -> Location 35726 Time(565,565)
+Time of the route: 565 minutes
+
+Route for vehicle 154 - 32975:
+
+Location 33815 Time(617,617) -> Location 34807 Time(895,895)
+Time of the route: 895 minutes
+
+Route for vehicle 186 - 26261:
+
+Location 35599 Time(560,560) -> Location 35627 Time(993,993)
+Time of the route: 993 minutes
+
+Route for vehicle 214 - 25678:
+
+Location 33815 Time(735,735) -> Location 34780 Time(1007,1007)
+Time of the route: 1007 minutes
+
+Route for vehicle 217 - 21138:
+
+Location 34093 Time(900,900) -> Location 33925 Time(1862,1862)
+Time of the route: 1862 minutes
+
+Route for vehicle 231 - 25902:
+
+Location 36166 Time(1063,1063) -> Location 35596 Time(1765,1765)
+Time of the route: 1765 minutes
+
+Route for vehicle 238 - 21161:
+
+Location 35599 Time(781,781) -> Location 35596 Time(1063,1063)
+Time of the route: 1063 minutes
+
+Route for vehicle 254 - 42383:
+
+Location 33815 Time(441,441) -> Location 34805 Time(1639,1639)
+Time of the route: 1639 minutes
+
+Route for vehicle 255 - 18782:
+
+Location 33815 Time(1110,1110) -> Location 34823 Time(2201,2201)
+Time of the route: 2201 minutes
+
+Route for vehicle 353 - 18821:
+
+Location 33815 Time(653,653) -> Location 34780 Time(925,925)
+Time of the route: 925 minutes
+
+Route for vehicle 354 - 22228:
+
+Location 33815 Time(761,761) -> Location 34780 Time(1033,1033)
+Time of the route: 1033 minutes
+
+Route for vehicle 355 - 41503:
+
+Location 35599 Time(273,273) -> Location 35130 Time(449,449)
+Time of the route: 449 minutes
+
+Route for vehicle 356 - 20265:
+
+Location 35599 Time(968,968) -> Location 37838 Time(3045,3045)
+Time of the route: 3045 minutes
+
+Route for vehicle 357 - 39394:
+
+Location 35601 Time(625,625) -> Location 35596 Time(1658,1658)
+Time of the route: 1658 minutes
+
+Route for vehicle 358 - 17649:
+
+Location 33704 Time(310,310) -> Location 33703 Time(952,952)
+Time of the route: 952 minutes
+
+Route for vehicle 359 - 21162:
+
+Location 35601 Time(707,707) -> Location 35596 Time(1740,1740)
+Time of the route: 1740 minutes
+
+Route for vehicle 360 - 18547:
+
+Location 34150 Time(339,339) -> Location 34019 Time(543,543)
+Time of the route: 543 minutes
+
+Route for vehicle 361 - 45109:
+
+Location 33925 Time(414,414) -> Location 34110 Time(1626,1626)
+Time of the route: 1626 minutes
+
+Route for vehicle 362 - 45104:
+
+Location 33925 Time(420,420) -> Location 34129 Time(1516,1516)
+Time of the route: 1516 minutes
+
+Route for vehicle 363 - 17009:
+
+Location 33925 Time(429,429) -> Location 34110 Time(1641,1641)
+Time of the route: 1641 minutes
+
+Route for vehicle 364 - 44540:
+
+Location 33925 Time(432,432) -> Location 34110 Time(1644,1644)
+Time of the route: 1644 minutes
+
+Route for vehicle 365 - 23676:
+
+Location 35752 Time(465,465) -> Location 35753 Time(551,551)
+Time of the route: 551 minutes
+
+Route for vehicle 366 - 17025:
+
+Location 33925 Time(449,449) -> Location 34116 Time(1463,1463)
+Time of the route: 1463 minutes
+
+Route for vehicle 367 - 24772:
+
+Location 33815 Time(790,790) -> Location 34780 Time(1062,1062) -> Location 34780 Time(1062,1062) -> Location 34793 Time(1386,1386)
+Time of the route: 1386 minutes
+
+Route for vehicle 368 - 44609:
+
+Location 35752 Time(447,447) -> Location 35753 Time(533,533)
+Time of the route: 533 minutes
+
+Route for vehicle 369 - 45111:
+
+Location 33925 Time(453,453) -> Location 34110 Time(1665,1665)
+Time of the route: 1665 minutes
+
+Route for vehicle 370 - 27819:
+
+Location 33925 Time(455,455) -> Location 34110 Time(1667,1667)
+Time of the route: 1667 minutes
+
+Route for vehicle 371 - 45108:
+
+Location 33925 Time(458,458) -> Location 34110 Time(1670,1670)
+Time of the route: 1670 minutes
+
+Route for vehicle 372 - 45110:
+
+Location 33925 Time(463,463) -> Location 34117 Time(1698,1698)
+Time of the route: 1698 minutes
+
+Route for vehicle 373 - 25721:
+
+Location 33925 Time(465,465) -> Location 34117 Time(1700,1700)
+Time of the route: 1700 minutes
+
+Route for vehicle 374 - 23734:
+
+Location 35752 Time(465,465) -> Location 35753 Time(551,551)
+Time of the route: 551 minutes
+
+Route for vehicle 375 - 38239:
+
+Location 33925 Time(467,467) -> Location 34157 Time(2733,2733)
+Time of the route: 2733 minutes
+
+Route for vehicle 376 - 24187:
+
+Location 33925 Time(469,469) -> Location 34157 Time(2735,2735)
+Time of the route: 2735 minutes
+
+Route for vehicle 377 - 36046:
+
+Location 33925 Time(470,470) -> Location 34117 Time(1705,1705)
+Time of the route: 1705 minutes
+
+Route for vehicle 378 - 31271:
+
+Location 33925 Time(473,473) -> Location 34117 Time(1708,1708)
+Time of the route: 1708 minutes
+
+Route for vehicle 379 - 30642:
+
+Location 34778 Time(524,524) -> Location 35866 Time(2079,2079)
+Time of the route: 2079 minutes
+
+Route for vehicle 380 - 20600:
+
+Location 35599 Time(989,989) -> Location 35598 Time(2009,2009)
+Time of the route: 2009 minutes
+
+Route for vehicle 381 - 37404:
+
+Location 35601 Time(968,968) -> Location 38072 Time(2440,2440)
+Time of the route: 2440 minutes
+
+Route for vehicle 382 - 37426:
+
+Location 33705 Time(621,621) -> Location 34074 Time(2105,2105)
+Time of the route: 2105 minutes
+
+Route for vehicle 383 - 38069:
+
+Location 33705 Time(623,623) -> Location 34074 Time(2107,2107)
+Time of the route: 2107 minutes
+
+Route for vehicle 384 - 45137:
+
+Location 38201 Time(689,689) -> Location 35011 Time(2618,2618)
+Time of the route: 2618 minutes
+
+Route for vehicle 385 - 40259:
+
+Location 35602 Time(811,811) -> Location 36889 Time(1746,1746)
+Time of the route: 1746 minutes
+
+Route for vehicle 386 - 23967:
+
+Location 33705 Time(807,807) -> Location 36908 Time(1021,1021)
+Time of the route: 1021 minutes
+
+Route for vehicle 387 - 32579:
+
+Location 35602 Time(968,968) -> Location 35130 Time(1299,1299) -> Location 35130 Time(1299,1299) -> Location 35596 Time(1455,1455)
+Time of the route: 1455 minutes
+
+Route for vehicle 388 - 16970:
+
+Location 34093 Time(900,900) -> Location 33925 Time(1862,1862)
+Time of the route: 1862 minutes
+
+Route for vehicle 389 - 44496:
+
+Location 35601 Time(1289,1289) -> Location 37773 Time(1632,1632)
+Time of the route: 1632 minutes
+
+Route for vehicle 390 - 44495:
+
+Location 35599 Time(1073,1073) -> Location 35597 Time(1532,1532)
+Time of the route: 1532 minutes
+
+Route for vehicle 391 - 32398:
+
+Location 37018 Time(993,993) -> Location 37026 Time(2086,2086)
+Time of the route: 2086 minutes
+
+Route for vehicle 392 - 45163:
+
+Location 35599 Time(1073,1073) -> Location 35597 Time(1532,1532)
+Time of the route: 1532 minutes
+
+Route for vehicle 393 - 45162:
+
+Location 35599 Time(1073,1073) -> Location 37838 Time(3150,3150)
+Time of the route: 3150 minutes
+
+Route for vehicle 394 - 33106:
+
+Location 35602 Time(1073,1073) -> Location 37838 Time(2934,2934)
+Time of the route: 2934 minutes
+
+Route for vehicle 395 - 33084:
+
+Location 35599 Time(1250,1250) -> Location 35596 Time(1532,1532)
+Time of the route: 1532 minutes
+
+Route for vehicle 396 - 28192:
+
+Location 34402 Time(1092,1092) -> Location 36587 Time(2253,2253)
+Time of the route: 2253 minutes
+
+Route for vehicle 397 - 38958:
+
+Location 34402 Time(1092,1092) -> Location 36587 Time(2253,2253)
+Time of the route: 2253 minutes
+
+Route for vehicle 398 - 18781:
+
+Location 33815 Time(1154,1154) -> Location 34823 Time(2245,2245)
+Time of the route: 2245 minutes
+
+Route for vehicle 399 - 35894:
+
+Location 35597 Time(1119,1119) -> Location 36121 Time(1345,1345)
+Time of the route: 1345 minutes
+
+Route for vehicle 400 - 23610:
+
+Location 34402 Time(1143,1143) -> Location 37870 Time(3038,3038)
+Time of the route: 3038 minutes
+
+Route for vehicle 401 - 45167:
+
+Location 33705 Time(1158,1158) -> Location 34050 Time(4559,4559)
+Time of the route: 4559 minutes
+
+Route for vehicle 402 - 45170:
+
+Location 35027 Time(1192,1192) -> Location 34765 Time(2512,2512)
+Time of the route: 2512 minutes
+
+Route for vehicle 403 - 44141:
+
+Location 35746 Time(1279,1279) -> Location 36025 Time(2224,2224)
+Time of the route: 2224 minutes
+
+Route for vehicle 404 - 32514:
+
+Location 35597 Time(1410,1410) -> Location 35596 Time(2027,2027)
+Time of the route: 2027 minutes
+
+Total time of all routes: 152286 minutes
+Amount of trucks used by optimizer: 79
+
+Amount of Pipa trucks originally used: 6
+
+Amount of trips to optimize: 6
+
+ROUTING_SUCCESS: Problem solved successfully.
+
+
+Route for vehicle 15 - 39642:
+
+Location 34287 Time(1304,1304) -> Location 34282 Time(1931,1931)
+Time of the route: 1931 minutes
+
+Route for vehicle 55 - 35882:
+
+Location 34807 Time(960,960) -> Location 36882 Time(1213,1213)
+Time of the route: 1213 minutes
+
+Route for vehicle 56 - 22279:
+
+Location 35596 Time(968,968) -> Location 37750 Time(1020,1020)
+Time of the route: 1020 minutes
+
+Route for vehicle 57 - 41821:
+
+Location 35598 Time(994,994) -> Location 36372 Time(1016,1016)
+Time of the route: 1016 minutes
+
+Route for vehicle 58 - 38324:
+
+Location 35601 Time(1155,1155) -> Location 35597 Time(2147,2147)
+Time of the route: 2147 minutes
+
+Route for vehicle 59 - 35161:
+
+Location 34136 Time(1167,1167) -> Location 34176 Time(1932,1932)
+Time of the route: 1932 minutes
+
+Total time of all routes: 10898 minutes
+Amount of trucks used by optimizer: 6
+
+Amount of RabÃ³n trucks originally used: 6
+
+Amount of trips to optimize: 6
+
+ROUTING_SUCCESS: Problem solved successfully.
+
+
+Route for vehicle 1 - 18018:
+
+Location 34619 Time(358,358) -> Location 35011 Time(767,767)
+Time of the route: 767 minutes
+
+Route for vehicle 2 - 18031:
+
+Location 34619 Time(385,385) -> Location 35011 Time(794,794)
+Time of the route: 794 minutes
+
+Route for vehicle 14 - 19769:
+
+Location 34287 Time(254,254) -> Location 35335 Time(476,476)
+Time of the route: 476 minutes
+
+Route for vehicle 15 - 19445:
+
+Location 34287 Time(273,273) -> Location 35335 Time(495,495)
+Time of the route: 495 minutes
+
+Route for vehicle 16 - 22551:
+
+Location 34619 Time(376,376) -> Location 35011 Time(785,785)
+Time of the route: 785 minutes
+
+Route for vehicle 17 - 31517:
+
+Location 37410 Time(510,510) -> Location 37421 Time(1108,1108)
+Time of the route: 1108 minutes
+
+Total time of all routes: 4914 minutes
+Amount of trucks used by optimizer: 6
+
+Amount of GrÃºa trucks originally used: 4
+
+Amount of trips to optimize: 4
+
+ROUTING_SUCCESS: Problem solved successfully.
+
+
+Route for vehicle 2 - 40709:
+
+Location 35516 Time(277,277) -> Location 35515 Time(606,606)
+Time of the route: 606 minutes
+
+Route for vehicle 6 - 45153:
+
+Location 34575 Time(700,700) -> Location 34586 Time(1252,1252)
+Time of the route: 1252 minutes
+
+Route for vehicle 7 - 45160:
+
+Location 34576 Time(960,960) -> Location 34579 Time(2304,2304)
+Time of the route: 2304 minutes
+
+Route for vehicle 8 - 26750:
+
+Location 35248 Time(1309,1309) -> Location 35391 Time(2448,2448)
+Time of the route: 2448 minutes
+
+Total time of all routes: 6610 minutes
+Amount of trucks used by optimizer: 4
+
+Amount of Mudancero trucks originally used: 1
+
+Amount of trips to optimize: 1
+
+ROUTING_SUCCESS: Problem solved successfully.
+
+
+Route for vehicle 3 - 33156:
+
+Location 35596 Time(1158,1158) -> Location 37730 Time(1241,1241)
+Time of the route: 1241 minutes
+
+Total time of all routes: 1241 minutes
+Amount of trucks used by optimizer: 1
+

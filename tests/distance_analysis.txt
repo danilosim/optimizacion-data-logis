@@ -1,0 +1,50 @@
+Trips distance analysis
+
+
+- Number of trips: 890
+- Number of valid trips: 604
+- Percentage of valid trips: 67.87%
+
+
+Absolute deviation analysis:
+
+- Maximum positive absolute deviation: 1360 minutes
+- Maximum negative absolute deviation: -99172 minutes
+- Average positive absolute deviation: 317 minutes
+- Average negative absolute deviation: -1653 minutes
+- Average overall absolute deviation: 1360 minutes
+
+
+Relative deviation analysis:
+
+- Maximum positive relative deviation: 99.2%
+- Maximum negative relative deviation: -53150.0%
+- Average positive relative deviation: 59%
+- Average negative relative deviation: -2203%
+- Average overall relative deviation: 99.2%
+
+
+Analysis for valid trips under 50 minutes (real duration):
+
+- Average absolute deviation: 18 minutes
+- Average relative deviation: 48%
+
+Analysis for valid trips under 100 minutes (real duration):
+
+- Average absolute deviation: 48 minutes
+- Average relative deviation: 64%
+
+Analysis for valid trips under 500 minutes (real duration):
+
+- Average absolute deviation: 133 minutes
+- Average relative deviation: 74%
+
+Analysis for valid trips under 1000 minutes (real duration):
+
+- Average absolute deviation: 404 minutes
+- Average relative deviation: 50%
+
+Analysis for valid trips over 1000 minutes (real duration):
+
+- Average absolute deviation: 675 minutes
+- Average relative deviation: 57%
