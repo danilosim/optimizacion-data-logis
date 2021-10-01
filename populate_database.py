@@ -4,13 +4,13 @@ import requests
 import sys
 import traceback
 
-API_KEY = '_'
+API_KEY = 'AIzaSyDZe6aGOFQI_5yzd-hasPikD26jdEAPx9k'
 GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json?address={address}&region=ar&key={key}'
 DISTANCE_URL = 'http://router.project-osrm.org/table/v1/driving/{locations}?annotations=distance,duration&sources=0'
 
 print('Connecting to database...')
 
-conn = psycopg2.connect(database='_', user='_', password='_', host='_')
+conn = psycopg2.connect(database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
 
 cur = conn.cursor()
 
@@ -86,7 +86,7 @@ def calcular_distancias(origin, destinations, info_dict):
 
 print('Reading csv...')
 
-with open("CSVArg.csv", "r") as f:
+with open("./csvs/CSVArg.csv", "r") as f:
     reader = csv.DictReader(f)
     trip_list = list(reader)
 
@@ -137,6 +137,3 @@ for ubicacion_id, values in ubicaciones.items():
         total -= 100
     ubicaciones_remaining -= 1
 print("\n\n100% DONE!!")
-
-
-
