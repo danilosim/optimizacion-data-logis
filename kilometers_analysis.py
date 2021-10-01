@@ -5,9 +5,9 @@ import psycopg2
 
 
 CONN = conn = psycopg2.connect(
-    database='assistcargo', user='postgres', password='totiDRS0753', host='localhost')
+    database='assistcargo', user='*', password='*', host='localhost')
 
-API_KEY = 'AIzaSyDGgqlMIL90ZZear1AoHqKcOtlgXXR4Mxo'
+API_KEY = '*'
 DISTANCE_URL = 'http://router.project-osrm.org/table/v1/driving/{locations}?annotations=distance&sources=0'
 url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins={origins}&destinations={destinations}&key={api_key}"
 
